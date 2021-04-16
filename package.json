@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yao-san4/yao-trash/issues"
   },
-  "homepage": "https://github.com/yao-san4/yao-trash#readme"
+  "homepage": "https://github.com/yao-san4/yao-trash#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
